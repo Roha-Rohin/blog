@@ -3429,7 +3429,7 @@ input[type="text"], input[type="url"], input[type="email"], input[type="tel"], i
     background-color: rgba(255, 255, 255, 0.95);
   }
 }
-/* Text transforms */
+/* Text transforms 
 .more-link, .btn,
 h1, h2, h3,
 h4, h5, h6,
@@ -3445,7 +3445,7 @@ header.header nav,
 .site-title {
   text-transform: uppercase;
 }
-
+*/
 /* ==========================================================================
    14. Media Queries
    ========================================================================== */
